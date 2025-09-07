@@ -17,7 +17,7 @@ The project explores how floral color information (specifically blue flowers) ca
 - Example queries and code snippets for SPARQL and GBIF data access.  
 
 # Links
-- Curated dataset archived in Zenodo (DOI: [to be added]).  
+- Curated dataset archived in Zenodo (DOI:https://doi.org/10.5281/zenodo.17073758).  
 - Wikidata queries: [SPARQL examples](https://w.wiki/7ujk).  
 
 # License
